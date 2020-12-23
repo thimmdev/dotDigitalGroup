@@ -6,11 +6,14 @@
 
 <h1 align="center">
   <h3>Prévia passada pela empresa</h3>
-  Template Desktop:
+<div style="display: flex;">
+  <p>Template Desktop:
   ![template-desktop](https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Desk.png)
   
   Template Mobile:
   ![template-desktop](https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Mobile.png)
+  </p>
+</div>
 </h1>  
 
 
