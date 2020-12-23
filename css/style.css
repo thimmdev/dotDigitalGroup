@@ -1,0 +1,16 @@
+:root {
+  --green: #546130;
+  --dark-green: #2d3b09;
+  --dark-gray: #454545;
+  --gray: #6f6f6f;
+
+  font-size: 62.5%;
+  font-family: "Roboto", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+
+  font-size: 100%;
+}
