@@ -6,10 +6,10 @@
 
 <h1 align="center">
   <h3>Prévia passada pela empresa</h3>
-    <p>Template Desktop:</p>
-  ![template-desktop](https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Desk.png)
-    <p>Template Mobile:</p>
-  ![template-mobile](https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Mobile.png)
+    Template Desktop:
+  ![desk template]https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Desk.png
+    Template Mobile:
+  ![mobile template]https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Mobile.png
 </h1>  
 
 
