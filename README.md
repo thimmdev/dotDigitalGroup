@@ -6,7 +6,7 @@
 
 <h1 align="center">
   <h3>Prévia passada pela empresa</h3>
- Template do Desktop: ![desk template](https://raw.githubusercontent.com/thimmdev/dotDigitalGroup/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Desk.png)
+ Template do Desktop: https://raw.githubusercontent.com/thimmdev/dotDigitalGroup/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Desk.png
  Template Mobile: https://github.com/thimmdev/dotDigitalGroup/blob/master/img/exemplosDaEmpresa/ProvaFrontEndJunior-Mobile.png
 </h1>  
 
